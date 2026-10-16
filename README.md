@@ -29,7 +29,7 @@ El flujo experimental comprende cuatro etapas:
 
 ## Disponibilidad de datos y reproducibilidad
 
-> **Este repositorio documenta el código utilizado en la investigación, pero no constituye una ejecución reproducible inmediata.** Los videos experimentales y los conjuntos de datos derivados (incluidos CSV, tensores y ciertos metadatos/resultados) no se distribuyen debido a restricciones de acceso y privacidad del material de investigación. Los pesos entrenados tampoco se incluyen en esta versión.
+> **Este repositorio documenta el código utilizado en la investigación, pero no constituye una ejecución reproducible inmediata.** Los videos experimentales y los conjuntos de datos derivados (incluidos CSV, tensores y ciertos metadatos/resultados) no se distribuyen debido a restricciones de acceso y privacidad del material de investigación. 
 
 Los scripts conservan **rutas locales absolutas**, identificadores de videos y parámetros del experimento original. Para adaptarlos a otros datos es necesario:
 
@@ -42,11 +42,11 @@ Las principales bibliotecas usadas incluyen **PyTorch, Ultralytics, BoxMOT, Open
 
 ## Pesos de modelos
 
-El detector requiere un archivo de pesos compatible (referenciado como `best.pt` en la configuración) y el modelo temporal puede generarse ejecutando `biLstm_autoencoder.py` a partir de los tensores preparados. Si se autoriza su distribución, los pesos pueden publicarse como **activos de GitHub Releases** o mediante **Git LFS**, con enlaces y versiones documentados en esta sección. Actualmente no se proporciona un enlace de descarga.
+El detector requiere un archivo de pesos compatible (referenciado como `best.pt` en la configuración) y el modelo temporal puede generarse ejecutando `biLstm_autoencoder.py` a partir de los tensores preparados. 
 
 ## Referencia académica
 
-Brendan Scott Williams Rubilar Vivanco (2026). *Detección temprana de anomalías conductuales asociadas al IPNV en peces mediante análisis automatizado de comportamiento individual*. Memoria de título, Ingeniería Civil Informática, Universidad de Concepción.
+Brendan Scott Williams Rubilar Vivanco (2026). *Detección temprana de anomalías conductuales asociadas al IPNV en peces mediante análisis automatizado de comportamiento individual*. Memoria de título, Ingeniería Civil Informática, Universidad de Concepción. Profesora Guía: Mabel Angelica Vidal Miranda. 
 
 ## Agradecimientos
 
