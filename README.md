@@ -2,6 +2,12 @@
 
 Código de investigación para el análisis automatizado del comportamiento individual de salmónidos mediante **visión por computador, seguimiento multiobjeto y aprendizaje profundo**. El sistema busca identificar patrones conductuales atípicos potencialmente asociados al virus de la necrosis pancreática infecciosa (IPNV) a partir de videos submarinos, como apoyo no invasivo al monitoreo sanitario; **no sustituye el diagnóstico clínico**.
 
+<p align="center">
+  <img width="3840" height="2160" alt="Frame" src="https://github.com/user-attachments/assets/ff55ae8e-25b4-43b6-b720-3497bca383b8" />
+  <br>
+  <sub>Imagen de uso restringido. Reproducción y distribución no autorizadas fuera del proyecto de investigación.</sub>
+</p>
+
 ## Metodología
 
 El flujo experimental comprende cuatro etapas:
